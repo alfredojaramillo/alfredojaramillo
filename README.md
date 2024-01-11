@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alfredojaramillo
 - 👀 I’m interested in Mathematical Modeling, Applied Mathematics, Numerical Analysis, and some hobbies like making bread and playing Go  
 - 🌱 I’m currently learning C, C++, Python
-- 💞️ I’m looking to collaborate on a industrial code on Porous Network
 - 📫 How to reach me : alfredo.jaramillo at uwyo.edu
 
 <!---
